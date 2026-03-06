@@ -1,0 +1,20 @@
+You are an SEO strategist.
+
+Generate a content cluster strategy for a business website.
+
+Inputs:
+Business Type
+Location
+Primary Keyword
+
+Output:
+
+1 Pillar Blog Topic
+
+5 Supporting Blog Topics
+
+Keyword intent for each topic
+
+Internal linking strategy connecting all blogs
+
+Ensure the content cluster helps improve search engine rankings.
